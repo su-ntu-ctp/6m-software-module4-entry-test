@@ -1,4 +1,4 @@
-# Software Developer Professional - React JS Module Entry Assessment
+# Software Developer Professional - Java Backend with SpringBoot Module Entry Assessment
 
 ## Brief
 
@@ -18,39 +18,37 @@ Click on the green button with `Code` and choose `Download ZIP`. The entire asse
 ## Prerequisite Skills
 
 It is preferred that the skills have been acquired previously
-- HTML
-- CSS
-- JavaScript
+- Object Orienterd Programming 
+- Database Design
 
 ## References
 
 These references should take you not more than 30 minutes to complete.
 
 Reference with code practice:
-- [NodeJS Modules](https://www.w3schools.com/nodejs/nodejs_modules.asp) (5 minutes)
-- [Pass-by-Reference(Geeks for Geeks)](https://www.geeksforgeeks.org/pass-by-value-and-pass-by-reference-in-javascript/) (5 minutes)
-- [Pass-by-Reference vs Pass-by-value](https://medium.com/front-end-weekly/understanding-pass-by-value-and-pass-by-reference-in-javascript-8e2a0806b175) (5 minutes)
-- [Arrow functions](https://www.w3schools.com/react/react_es6_arrow.asp) (5 minutes)
-- [ES6 Destructuring](https://www.w3schools.com/react/react_es6_destructuring.asp) (5 minutes)
+- [Java OOP](https://www.w3schools.com/java/java_oop.asp) (10 minutes)
+- [Pillars of OOP](https://medium.com/@cancerian0684/what-are-four-basic-principles-of-object-oriented-programming-645af8b43727) (5 minutes)
+- [SQL Introduction](https://www.w3schools.com/sql/default.asp)
+
 
 These videos can be helpful in learning JavaScript
 
-- [JavaScript - Travesty Media](https://www.youtube.com/watch?v=hdI2bqOjy3c)
-- [JavaScript ES6 Tutorial with Mosh](https://www.youtube.com/watch?v=NCwa_xi0Uuc)
+- [Object Oriented Programming with Mosh](https://www.youtube.com/watch?v=pTB0EiLXUC8)
+- [Java Tutorial with Mosh](https://www.youtube.com/watch?v=eIrMbAQSU34)
 
 
 ## Problems
 
 Please attempt the solve the problems described in the following files:
 - [Q1](./src/q1.md)
-- [Q2](./src/q2.js)
+- [Q2](./src/q2.java)
 - [Q3](./src/q3.md)
-- [Q4](./src/q4.js)
+- [Q4](./src/q4.java)
 - [Q5](./src/q5.md)
 
 ## Testing
 
-Codes can be tested using any online editor such as [Programiz](https://www.programiz.com/javascript/online-compiler/) or [JS Fiddle](https://jsfiddle.net/).
+Codes can be tested using any online editor such as [Programiz](https://www.programiz.com/java-programming/online-compiler/) or [JDoodle](https://www.jdoodle.com/online-java-compiler).
 
 ## Submission
 
