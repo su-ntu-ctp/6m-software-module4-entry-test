@@ -1,4 +1,4 @@
-# Software Developer Professional - Java Backend with SpringBoot Module Entry Assessment
+# Software Developer Professional - Backend Development using Java with SpringBoot Module Entry Assessment
 
 ## Brief
 
@@ -18,7 +18,7 @@ Click on the green button with `Code` and choose `Download ZIP`. The entire asse
 ## Prerequisite Skills
 
 It is preferred that the skills have been acquired previously
-- Object Orienterd Programming 
+- Basic Programming Knowledge 
 - Database Design
 
 ## References
@@ -31,24 +31,24 @@ Reference with code practice:
 - [SQL Introduction](https://www.w3schools.com/sql/default.asp)
 
 
-These videos can be helpful in learning JavaScript
+These videos can be helpful in learning Java and OOP
 
 - [Object Oriented Programming with Mosh](https://www.youtube.com/watch?v=pTB0EiLXUC8)
-- [Java Tutorial with Mosh](https://www.youtube.com/watch?v=eIrMbAQSU34)
+- [What is OOP by KeepOnCoding](https://www.youtube.com/watch?v=1ONhXmQuWP8)
 
 
 ## Problems
 
 Please attempt the solve the problems described in the following files:
 - [Q1](./src/q1.md)
-- [Q2](./src/q2.java)
+- [Q2](./src/q2.md)
 - [Q3](./src/q3.md)
-- [Q4](./src/q4.java)
+- [Q4](./src/q4.md)
 - [Q5](./src/q5.md)
 
 ## Testing
 
-Codes can be tested using any online editor such as [Programiz](https://www.programiz.com/java-programming/online-compiler/) or [JDoodle](https://www.jdoodle.com/online-java-compiler).
+Codes can be tested using any online editor such as [Programiz](https://www.programiz.com/java-programming/online-compiler/).
 
 ## Submission
 
