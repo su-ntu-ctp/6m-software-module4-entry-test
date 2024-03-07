@@ -30,11 +30,13 @@ References:
 - [Basic Git commands](https://www.atlassian.com/git/tutorials/saving-changes)
 - [Git Branching](https://www.atlassian.com/git/tutorials/using-branches)
 - [What is DevOps](https://www.atlassian.com/devops)
+- [What is Continous Integration](https://www.atlassian.com/continuous-delivery/continuous-integration)
+- [What is Secret Management](https://www.cyberark.com/what-is/secrets-management/)
 
 These videos can be helpful in learning Java and OOP
-
-- 
-
+- [Git basics](https://www.youtube.com/watch?v=USjZcfj8yxE)
+- [Git branching](https://www.youtube.com/watch?v=QV0kVNvkMxc)
+- [What is DevOps](https://www.youtube.com/watch?v=Xrgk023l4lI&t=12s)
 
 ## Problems
 
