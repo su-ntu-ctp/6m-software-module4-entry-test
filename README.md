@@ -1,4 +1,4 @@
-# Software Developer Professional - Backend Development using Java with SpringBoot Module Entry Assessment
+# Software Developer Professional - Introduction to DevOps Module Entry Assessment
 
 ## Brief
 
@@ -19,22 +19,21 @@ Click on the green button with `Code` and choose `Download ZIP`. The entire asse
 
 It is preferred that the skills have been acquired previously
 - Basic Programming Knowledge 
-- Database Design
+- Basic CLI commands
+- Git basics
 
 ## References
 
 These references should take you not more than 30 minutes to complete.
 
-Reference with code practice:
-- [Java OOP](https://www.w3schools.com/java/java_oop.asp) (10 minutes)
-- [Pillars of OOP](https://medium.com/@cancerian0684/what-are-four-basic-principles-of-object-oriented-programming-645af8b43727) (5 minutes)
-- [SQL Introduction](https://www.w3schools.com/sql/default.asp)
-
+References:
+- [Basic Git commands](https://www.atlassian.com/git/tutorials/saving-changes)
+- [Git Branching](https://www.atlassian.com/git/tutorials/using-branches)
+- [What is DevOps](https://www.atlassian.com/devops)
 
 These videos can be helpful in learning Java and OOP
 
-- [Object Oriented Programming with Mosh](https://www.youtube.com/watch?v=pTB0EiLXUC8)
-- [What is OOP by KeepOnCoding](https://www.youtube.com/watch?v=1ONhXmQuWP8)
+- 
 
 
 ## Problems
@@ -45,10 +44,6 @@ Please attempt the solve the problems described in the following files:
 - [Q3](./src/q3.md)
 - [Q4](./src/q4.md)
 - [Q5](./src/q5.md)
-
-## Testing
-
-Codes can be tested using any online editor such as [Programiz](https://www.programiz.com/java-programming/online-compiler/).
 
 ## Submission
 
